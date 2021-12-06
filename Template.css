@@ -1,0 +1,59 @@
+body {
+    font-family: Georgia, serif;
+    font-size: 100%;
+    line-height: 175%;
+    margin: 0 15 0;
+    background: #d2dc96 
+    center 100px fixed;
+    
+    
+}
+header {
+    margin-top: 0;
+    padding: 3em 1em 2em 1em;
+    text-align: center;
+    
+
+
+} 
+a{
+    text-decoration: none;
+}
+a:link {
+    color: #f9f;
+}
+a:visited {
+    color: #f80763;
+}
+a:focus, a:hover {
+    color: #0024f2;
+    background-color: rgb(255, 255, 255);
+}
+a:active {
+    color: rgb(228, 25, 92);
+    background-color: rgb(250, 252, 134);
+}
+h1 {
+    font: bold 3em Georgia, serif;
+    text-shadow: .05em .05em .1em lightslategray ;
+    color: rgb(253, 9, 151);
+    text-align: center;
+}
+h2 {
+    font-size: 1em;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    text-align: center;
+    color: rgb(194, 0, 145)
+}
+
+h2 + p {
+    text-align: center;
+    
+}
+p {
+    text-align: center;
+}
+ul{
+    text-align: center;
+}
